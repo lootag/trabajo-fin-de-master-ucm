@@ -1,0 +1,12 @@
+venv/
+.DS_Store
+**results/
+boxplots/
+descriptive_stats/
+images/
+TEST/
+TRAIN/
+**.png
+**.pdf
+**.py
+**.html
